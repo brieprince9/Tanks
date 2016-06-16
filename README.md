@@ -8,5 +8,5 @@
 <br>
 
 
-(https://github.com/brieprince9/Tanks/blob/master/screenshots/Tanks.psd "Tanks")
+(https://github.com/brieprince9/Tanks/blob/master/screenshots/Tanks.jpg)
 <br><br>
