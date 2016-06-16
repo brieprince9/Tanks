@@ -7,5 +7,6 @@
 <b>Example screenshots of our completed Tanks.</b><br><br>
 ![Alt text](https://github.com/brieprince9/Tanks/blob/master/screenshots/Tanks.jpg)
 <br><br>
-<b>Controls.</b>
+<b>Controls:</b><br><br>(Player 1) <br><br>Forward: up arrow <br><br>Backward: down arrow <br><br>Turn: left or right arrow <br><br>Shoot: enter<br><br>
+(Player 2) <br><br>Forward: w <br><br>Backward: s <br><br>Turn: a or d <br><br>Shoot: space
 
